@@ -1,5 +1,8 @@
 # boot-{taskname}
 [![Clojars Project](https://img.shields.io/clojars/v/degree9/{taskname}.svg)](https://clojars.org/degree9/{taskname})
+[![CircleCI](https://circleci.com/gh/degree9/{taskname}.svg?style=svg)](https://circleci.com/gh/degree9/{taskname})
+[![Dependencies Status](https://jarkeeper.com/degree9/{taskname}/status.svg)](https://jarkeeper.com/degree9/{taskname})
+[![Downloads](https://jarkeeper.com/degree9/{taskname}/downloads.svg)](https://jarkeeper.com/degree9/{taskname})
 
 {description} for [boot-clj][1].
 
